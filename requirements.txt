@@ -1,0 +1,9 @@
+
+# Maybe we can use the array property for comparison
+qrisp==0.4.10
+
+# qrisp uses qiskit 1.1.1
+# but legacy code uses 0.46.0
+# for qiskit migration tests, see https://docs.quantum.ibm.com/migration-guides/qiskit-1.0-features
+qiskit-aer==0.14.2
+qiskit-ibm-runtime==0.28.0
